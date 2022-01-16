@@ -17,6 +17,7 @@ spec:
       containers:
       - name: azure-vote-front
         # image: mcr.microsoft.com/azuredocs/azure-vote-front:v1
+        image:
         resources:
           requests:
             cpu: 100m
