@@ -10,7 +10,7 @@ env:
   CLUSTER_NAME: zawasK8sApp
   CLUSTER_RESOURCE_GROUP: test
   NAMESPACE: default
-  SECRET: zawasK8sAppSecrets
+  SECRET: zawas-k8s-app-front
   APP_NAME: azure-vote-front
   
 jobs:
